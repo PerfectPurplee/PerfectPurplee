@@ -10,16 +10,15 @@ Currently studying computer science at the ***Polish-Japanese Academy of Informa
 
 ## 👨‍💻 Projects
 Here are some projects I'm currently working on:
-- **Java multiplayer Game:** [link](#)
-- **3D portfolio site:** [link](#)
+- **Java multiplayer Game:** [Aether-Arena](https://github.com/PerfectPurplee/Aether-Arena)
+- **3D portfolio site:** [Portfolio site (work on early stage)](https://github.com/PerfectPurplee/portfolio-site)
 
 ## 📚 Currently Learning
 - Java Spring
 - C++
 
 ## Connect with Me
-- GitHub: [Your GitHub Profile](#)
-- Gmail: [Your Email Address](#)
+- Gmail: [mail](simonbalcerzak@gmail.com)
 
 Feel free to connect if you share a passion for Java, coding, or if you simply enjoy the thrill of learning in the world of technology. Let's embark on this coding journey together! 🚀
 
