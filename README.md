@@ -1,6 +1,6 @@
-# Hello World, I'm Simon Balcerzak 👋
+###Simon Balcerzak
 
-## About Me
+**Hello World!** 👋
 I'm a passionate Java developer. 
 Student at Polish-Japanese academy of information technology.
 
