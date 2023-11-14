@@ -1,9 +1,9 @@
 # Simon Balcerzak
 
-**Hello World!** 👋
-I'm a passionate Java developer. 
-Student at Polish-Japanese Academy of Information Technology.
-
+**Hello World!** 👋  
+I'm Simon Balcerzak, aspiring to become great Java developer.  
+Currently studying computer science at the ***Polish-Japanese Academy of Information Technology***.  
+I'm really into exploring a world of coding.
 ## 💻 Skills
 - **Languages:** Java, JavaScript.
 - **Frameworks:** Spring (Spring Core), JavaScript Three.js. 
@@ -21,7 +21,9 @@ Here are some projects I'm currently working on:
 ## Connect with Me
 - GitHub: [Your GitHub Profile](#)
 - Gmail: [Your Email Address](#)
-- 
+
+Feel free to connect if you share a passion for Java, coding, or if you simply enjoy the thrill of learning in the world of technology. Let's embark on this coding journey together! 🚀
+
 <img src="https://raw.githubusercontent.com/PerfectPurplee/PerfectPurplee/output/snake.svg" alt="Snake animation" height="150" />
 
 ###
