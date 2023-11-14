@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Simon Balcerzak</h1>
-<h3 align="center">A passionate Java developer from Poland</h3>
+# Hello, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perfectpurple&label=Profile%20views&color=0e75b6&style=flat" alt="perfectpurple" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perfectpurple" alt="perfectpurple" /></a> </p>
+I'm a passionate Java developer with a keen interest in building scalable and efficient software solutions. My expertise lies in [mention any specific areas or technologies you specialize in].
 
-- 🌱 I’m currently learning **Java Spring, C++**
+In addition to coding, I enjoy [mention any hobbies or interests related to technology or not].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- **Languages:** Java, [Other Languages]
+- **Frameworks:** Spring Boot, [Other Frameworks]
+- **Database:** [Your preferred databases]
+- **Tools and Technologies:** [Any other tools or technologies you frequently use]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfectpurple&show_icons=true&locale=en&layout=compact" alt="perfectpurple" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perfectpurple&show_icons=true&locale=en" alt="perfectpurple" /></p>
+Here are some projects I've worked on:
+
+- [Project 1](link-to-project-1): Brief description.
+- [Project 2](link-to-project-2): Brief description.
+
+## Blog
+
+I occasionally write about [topics you write about] on my [blog](link-to-your-blog).
+
+## Connect with Me
+
+- GitHub: [Your GitHub Profile](link-to-github)
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [@YourTwitterHandle](link-to-twitter)
+
+Feel free to reach out if you have any questions or just want to connect!
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&theme=radical)
+
+<!-- Optionally, you can add a skills section -->
+
+## Skills
+
+- Java
+- Spring Framework
+- [Any other skills]
+
