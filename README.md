@@ -3,7 +3,6 @@
 **Hello World!** 👋  
 I'm Simon Balcerzak, aspiring to become great Java developer.  
 Currently studying computer science at the ***Polish-Japanese Academy of Information Technology***.  
-I'm really into exploring a world of coding.
 ## 💻 Skills
 - **Languages:** Java, JavaScript.
 - **Frameworks:** Spring (Spring Core), JavaScript Three.js. 
