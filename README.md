@@ -18,7 +18,7 @@ Here are some projects I'm currently working on:
 - C++
 
 ## Connect with Me
-- Gmail: [mail](simonbalcerzak@gmail.com)
+- Gmail: [simonbalcerzak@gmail.com](mailto:simonbalcerzak@gmail.com)
 
 Feel free to connect if you share a passion for Java, coding, or if you simply enjoy the thrill of learning in the world of technology. Let's embark on this coding journey together! 🚀
 
