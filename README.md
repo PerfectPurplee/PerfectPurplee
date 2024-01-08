@@ -4,17 +4,19 @@
 I'm Simon Balcerzak, aspiring to become great Java developer.  
 Currently studying computer science at the ***Polish-Japanese Academy of Information Technology***.  
 ## 💻 Skills
-- **Languages:** Java, JavaScript (kind of).
-- **Frameworks:** Spring (Spring Core), JavaScript Three.js. 
-- **Tools:** Intellij.
+- **Languages:** Java, C++, JavaScript.
+- **Frameworks:** Spring, Spring boot, SFML, React.js, Three.js. 
+- **Database:** SQL, Oracle sqldeveloper.
+- **Version Control:** Git.
 
 ## 👨‍💻 Projects
 Here are some projects I'm currently working on:
 - **Java multiplayer Game:** [Aether-Arena](https://github.com/PerfectPurplee/Aether-Arena)
 - **3D portfolio site:** [Portfolio site (work on early stage)](https://github.com/PerfectPurplee/portfolio-site)
+  
 
 ## 📚 Currently Learning
-- Java Spring
+- Java Spring and Spring boot.
 - C++
 
 ## Connect with Me
