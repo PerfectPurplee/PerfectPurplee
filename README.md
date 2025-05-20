@@ -1,7 +1,7 @@
 # Simon Balcerzak
 
 **Hello World!** 👋  
-I'm aspiring Java developer.  
+I'm an aspiring Java developer.  
 Currently studying computer science at the ***Polish-Japanese Academy of Information Technology***.  
 ## 💻 Skills
 - **Languages:** Java, C++, JavaScript.
